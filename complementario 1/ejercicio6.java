@@ -12,7 +12,7 @@ public class ejercicio6 {
             for (int i = 0; i < b; i++) {
                 c *= a;
             }
-            System.out.println(a + " + " + b + " = " + c);
+            System.out.println(a + " elevado a " + b + " = " + c);
             System.out.println("\n1.\tPara Continuar\n2.\tPara Salir");
             flag = scan.nextInt();
         }
